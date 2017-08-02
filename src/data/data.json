@@ -1,0 +1,166 @@
+{
+  "data":[
+    {
+      "category": "skin",
+      "items":[
+        {
+          "id": 1,
+          "name": "Green Tea Facewash",
+          "brand": "St. Ives",
+          "price": 1.78,
+          "description": "Green tea enriched facial scrub",
+          "image": "http://www.placecage.com/200/300"
+        },
+        {
+          "id": 2,
+          "name": "Detoxifying Charcoal Mask",
+          "brand": "Studio 35",
+          "price": 2.98,
+          "description": "Charcoal and sea salt enriched formula to clean your skin of life's impurities",
+          "image": "http://www.placecage.com/200/300"
+        },
+        {
+          "id": 3,
+          "name": "Pore Minimizing Toner",
+          "brand": "Aveeno",
+          "price": 5.60,
+          "description": "Formulated for sensative skin to tone and tighten pores.",
+          "image": "http://www.placecage.com/200/300"
+        },
+        {
+          "id": 4,
+          "name": "Under Eye Cream",
+          "brand": "Nutragena",
+          "price": 4.98,
+          "description": "Designed to reduce fine lines and under eye bags after two weeks of use.",
+          "image": "http://www.placecage.com/200/300"
+        },
+        {
+          "id": 5,
+          "name": "Lavendar Face Moistorizer",
+          "brand": "St. Ives",
+          "price": 4.32,
+          "description": "Use twice daily to reveal younger, fresher, dewier skin.",
+          "image": "http://www.placecage.com/200/300"
+        },
+        {
+          "id": 6,
+          "name": "Spot Treatment Acne Pen",
+          "brand": "Noxzema",
+          "price": 3.64,
+          "description": "For the unexpected breakout.  Minmizes appearance in just 12 hours!",
+          "image": "http://www.placecage.com/200/300"
+        }
+      ]
+
+    },
+    {
+      "category": "makeup",
+      "items":[
+        {
+          "id": 1,
+          "name": "DeSlick Primer",
+          "brand": "Urban Decay",
+          "price": 26.50,
+          "description": "Designed for oily skin, this makeup primer guarentees your look stays put all day.",
+          "image": "http://fillmurray.com/200/300"
+        },
+        {
+          "id": 2,
+          "name": "Sun Protecting BB Cream",
+          "brand": "Maybaleen",
+          "price": 4.80,
+          "description": "Not effective at Vans Warped Tour.  But designed to even complextion, moisturize, and provide UV protection.",
+          "image": "http://fillmurray.com/200/300"
+        },
+        {
+          "id": 3,
+          "name": "Sheer Cream Blush",
+          "brand": "Revlon",
+          "price": 3.75,
+          "description": "Designed to provide a subtle glowing tint for everyday wear.",
+          "image": "http://fillmurray.com/200/300"
+        },
+        {
+          "id": 4,
+          "name": "Eye Potion Eye Shadow Primer",
+          "brand": "Urban Decay",
+          "price": 15.99,
+          "description": "Underwear for your eyelids.  Designed to improve pigment and longevity.",
+          "image": "http://fillmurray.com/200/300"
+        },
+        {
+          "id": 5,
+          "name": "Felt Tipped Eyeliner",
+          "brand": "Elf",
+          "price": 2.00,
+          "description": "For a precise liquid line.  For bold beautiful wear.",
+          "image": "http://fillmurray.com/200/300"
+        },
+        {
+          "id": 6,
+          "name": "Falsies Mascara",
+          "brand": "Maybaleen",
+          "price": 3.95,
+          "description": "For long luxrious lashes that last.",
+          "image": "http://fillmurray.com/200/300"
+        }
+      ]
+
+    },
+    {
+      "category": "hair",
+      "items":[
+        {
+          "id": 1,
+          "name": "Moistorizing Shampoo",
+          "brand": "Aussie",
+          "price": 4.82,
+          "description": "Enriched with vitamin E and avocado oil for smooth sleek strands.",
+          "image": "http://stevensegallery.com/200/300"
+        },
+        {
+          "id": 2,
+          "name": "Moistorizing Conditioner",
+          "brand": "Aussie",
+          "price": 4.82,
+          "description": "Enriched with vitamin E and avocado oil for smooth sleep strands.  Best used with Aussie Moistorizing Shampoo.",
+          "image": "http://stevensegallery.com/200/300"
+        },
+        {
+          "id": 3,
+          "name": "Extra Strength Heat Protecting Spray",
+          "brand": "Aussie",
+          "price": 3.65,
+          "description": "A protective shield for your hair to defend against damaging heat from styling.",
+          "image": "http://stevensegallery.com/200/300"
+        },
+        {
+          "id": 4,
+          "name": "Dry Shampoo",
+          "brand": "Aussie",
+          "price": 3.65,
+          "description": "For when wet shampoo is not an option.  I mean who has time to shower anyway?!",
+          "image": "http://stevensegallery.com/200/300"
+        },
+        {
+          "id": 5,
+          "name": "Extra Holde Curling Mousse",
+          "brand": "Aussie",
+          "price": 3.98,
+          "description": "Extra hold without the crunch for curls that spring.",
+          "image": "http://stevensegallery.com/200/300"
+        },
+        {
+          "id": 6,
+          "name": "Leave-in Conditioner",
+          "brand": "Aussie",
+          "price": 3.45,
+          "description": "Leave in conditioner to help hydrate dry locks.",
+          "image": "http://stevensegallery.com/200/300"
+        }
+      ]
+
+    }
+  ]
+}

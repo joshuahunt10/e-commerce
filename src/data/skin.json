@@ -1,0 +1,54 @@
+{
+  "category": "skin",
+  "items":[
+    {
+      "id": 1,
+      "name": "Green Tea Facewash",
+      "brand": "St. Ives",
+      "price": 1.78,
+      "description": "Green tea enriched facial scrub",
+      "image": "http://www.placecage.com/200/300"
+    },
+    {
+      "id": 2,
+      "name": "Detoxifying Charcoal Mask",
+      "brand": "Studio 35",
+      "price": 2.98,
+      "description": "Charcoal and sea salt enriched formula to clean your skin of life's impurities",
+      "image": "http://www.placecage.com/200/300"
+    },
+    {
+      "id": 3,
+      "name": "Pore Minimizing Toner",
+      "brand": "Aveeno",
+      "price": 5.60,
+      "description": "Formulated for sensative skin to tone and tighten pores.",
+      "image": "http://www.placecage.com/200/300"
+    },
+    {
+      "id": 4,
+      "name": "Under Eye Cream",
+      "brand": "Nutragena",
+      "price": 4.98,
+      "description": "Designed to reduce fine lines and under eye bags after two weeks of use.",
+      "image": "http://www.placecage.com/200/300"
+    },
+    {
+      "id": 5,
+      "name": "Lavendar Face Moistorizer",
+      "brand": "St. Ives",
+      "price": 4.32,
+      "description": "Use twice daily to reveal younger, fresher, dewier skin.",
+      "image": "http://www.placecage.com/200/300"
+    },
+    {
+      "id": 6,
+      "name": "Spot Treatment Acne Pen",
+      "brand": "Noxzema",
+      "price": 3.64,
+      "description": "For the unexpected breakout.  Minmizes appearance in just 12 hours!",
+      "image": "http://www.placecage.com/200/300"
+    }
+  ]
+
+}

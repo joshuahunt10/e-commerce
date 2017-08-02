@@ -1,0 +1,54 @@
+{
+  "category": "hair",
+  "items":[
+    {
+      "id": 1,
+      "name": "Moistorizing Shampoo",
+      "brand": "Aussie",
+      "price": 4.82,
+      "description": "Enriched with vitamin E and avocado oil for smooth sleek strands.",
+      "image": "http://stevensegallery.com/200/300"
+    },
+    {
+      "id": 2,
+      "name": "Moistorizing Conditioner",
+      "brand": "Aussie",
+      "price": 4.82,
+      "description": "Enriched with vitamin E and avocado oil for smooth sleep strands.  Best used with Aussie Moistorizing Shampoo.",
+      "image": "http://stevensegallery.com/200/300"
+    },
+    {
+      "id": 3,
+      "name": "Extra Strength Heat Protecting Spray",
+      "brand": "Aussie",
+      "price": 3.65,
+      "description": "A protective shield for your hair to defend against damaging heat from styling.",
+      "image": "http://stevensegallery.com/200/300"
+    },
+    {
+      "id": 4,
+      "name": "Dry Shampoo",
+      "brand": "Aussie",
+      "price": 3.65,
+      "description": "For when wet shampoo is not an option.  I mean who has time to shower anyway?!",
+      "image": "http://stevensegallery.com/200/300"
+    },
+    {
+      "id": 5,
+      "name": "Extra Holde Curling Mousse",
+      "brand": "Aussie",
+      "price": 3.98,
+      "description": "Extra hold without the crunch for curls that spring.",
+      "image": "http://stevensegallery.com/200/300"
+    },
+    {
+      "id": 6,
+      "name": "Leave-in Conditioner",
+      "brand": "Aussie",
+      "price": 3.45,
+      "description": "Leave in conditioner to help hydrate dry locks.",
+      "image": "http://stevensegallery.com/200/300"
+    }
+  ]
+
+}

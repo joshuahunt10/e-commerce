@@ -1,0 +1,54 @@
+{
+  "category": "makeup",
+  "items":[
+    {
+      "id": 1,
+      "name": "DeSlick Primer",
+      "brand": "Urban Decay",
+      "price": 26.50,
+      "description": "Designed for oily skin, this makeup primer guarentees your look stays put all day.",
+      "image": "http://placekitten.com/200/300"
+    },
+    {
+      "id": 2,
+      "name": "Sun Protecting BB Cream",
+      "brand": "Maybaleen",
+      "price": 4.80,
+      "description": "Not effective at Vans Warped Tour.  But designed to even complextion, moisturize, and provide UV protection.",
+      "image": "http://placekitten.com/200/300"
+    },
+    {
+      "id": 3,
+      "name": "Sheer Cream Blush",
+      "brand": "Revlon",
+      "price": 3.75,
+      "description": "Designed to provide a subtle glowing tint for everyday wear.",
+      "image": "http://placekitten.com/200/300"
+    },
+    {
+      "id": 4,
+      "name": "Eye Potion Eye Shadow Primer",
+      "brand": "Urban Decay",
+      "price": 15.99,
+      "description": "Underwear for your eyelids.  Designed to improve pigment and longevity.",
+      "image": "http://placekitten.com/200/300"
+    },
+    {
+      "id": 5,
+      "name": "Felt Tipped Eyeliner",
+      "brand": "Elf",
+      "price": 2.00,
+      "description": "For a precise liquid line.  For bold beautiful wear.",
+      "image": "http://placekitten.com/200/300"
+    },
+    {
+      "id": 6,
+      "name": "Falsies Mascara",
+      "brand": "Maybaleen",
+      "price": 3.95,
+      "description": "For long luxrious lashes that last.",
+      "image": "http://placekitten.com/200/300"
+    }
+  ]
+
+}
