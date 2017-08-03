@@ -17,7 +17,7 @@ ReactDOM.render(
   <BrowserRouter>
     <BaseLayout>
       <Switch>
-        <Route path='/items/hair/:id' component={ItemDetails} />
+        <Route path='/items/:cat/:id' component={ItemDetails} />
         <Route path='/items/:cat' component={ItemList} />
         <Route path='/contact' component={Contact} />
         <Route path='/about' component={About} />
