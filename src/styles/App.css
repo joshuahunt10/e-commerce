@@ -1,3 +1,8 @@
-h1 {
-  color: blue;
+.top-bar{
+  background-color: #bdc3c7;
+}
+
+.col-sm-4{
+  padding-bottom: 2%;
+  padding-left: 2%;
 }

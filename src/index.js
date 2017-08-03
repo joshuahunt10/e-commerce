@@ -21,7 +21,7 @@ ReactDOM.render(
         <Route path='/items/:cat' component={ItemList} />
         <Route path='/contact' component={Contact} />
         <Route path='/about' component={About} />
-        <Route path='/' component={App} />
+        <Route exact path='/' component={App} />
 
       </Switch>
     </BaseLayout>

@@ -18,13 +18,48 @@ class ItemDetails extends Component {
     const chosenItem = product[0]
     console.log('products on the itemdetails page', product);
     return (
-      <div>
-        <div>
-          <img src={chosenItem.image} />
-          <h2>Name: {chosenItem.name}</h2>
-          <h4>By: {chosenItem.brand}</h4>
-          <p>Description: {chosenItem.description}</p>
-          <strong>${chosenItem.price}</strong>
+      <div className='container'>
+        <div className='row'>
+          <div className="col-4">
+            <img src={chosenItem.image} />
+
+          </div>
+          <div className="col-8">
+            <div className="row">
+              <div className="col-2">
+                <b>Name:</b>
+              </div>
+              <div className="col-5">
+                <p>{chosenItem.name}</p>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-2">
+                <b>By:</b>
+              </div>
+              <div className="col-5">
+                <p>{chosenItem.brand}</p>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-2">
+                <b>Description:</b>
+              </div>
+              <div className="col-6">
+                <p>{chosenItem.description}</p>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-2">
+                <b></b>
+              </div>
+              <div className="col-5">
+                <p>${chosenItem.price}</p>
+              </div>
+            </div>
+
+
+          </div>
         </div>
       </div>
     );
